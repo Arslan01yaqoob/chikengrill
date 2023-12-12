@@ -1,0 +1,258 @@
+.a-side {
+    background-image: url(images/header.png);
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+}
+
+.a-img {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.b-side {
+    height: 800px;
+    background-color: #303030;
+}
+
+.inner-col {
+    background-image: url(images/title_background.png);
+    height: 700px;
+    background-repeat: no-repeat;
+}
+
+@font-face {
+    font-family: hello;
+    src: url(fonts/GrandHotel-Regular.otf);
+}
+
+.Title-heading {
+    color: #ffc200;
+    font-family: hello;
+    padding-top: 100px;
+    font-size: 100px;
+    padding-left: 100px;
+}
+
+.sample-text {
+    color: #ffff;
+    font-size: 20px;
+    padding-left: 100px;
+}
+
+.order-btn {
+    background-color: #ffc200;
+    border-radius: 3px;
+    border: none;
+    width: 130px;
+    height: 40px;
+    margin-left: 100px;
+}
+
+.for-space {
+    height: 100px;
+}
+
+.best-sellar-heading {
+    font-family: hello;
+    font-size: 90px;
+    text-align: center;
+}
+
+.sample-text1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.title-place {
+    font-family: hello;
+    text-align: center;
+}
+
+.demo-img {
+    text-align: center;
+}
+
+.third-page {
+    background-image: url(images/orientalBackground.png);
+    height: 600px;
+}
+
+.ot-img {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.ot-heading {
+    color: #ffc200;
+    font-family: hello;
+    padding-top: 150px;
+    font-size: 100px;
+}
+
+.sample-text2 {
+    color: #ffff;
+    font-size: 30px;
+}
+
+.order-btn1 {
+    background-color: #ffc200;
+    border: none;
+    border-radius: 3px;
+    width: 150px;
+    height: 40px;
+}
+
+.forth-page {
+    background-image: url(images/title_background.png);
+    background-color: #303030;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.forth-page-heading {
+    font-family: hello;
+    color: #ffc200;
+    font-size: 100px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.sample-text3 {
+    color: #ffff;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.circle {
+    width: 280px;
+    height: 280px;
+    text-align: center;
+    border: 4px solid #fff;
+    border-radius: 50%;
+    /* Make it a circle by setting border-radius to 50% of width/height */
+}
+
+.num {
+    color: #ffc200;
+    font-size: 80px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+
+.des {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: -30px;
+}
+
+.fifth-page {
+    background-image: url(images/croped\ background.png);
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.forth-page-heading {
+    color: #ffc200;
+    font-family: hello;
+    font-size: 100px;
+    padding-right: 200px;
+}
+
+.for-space1 {
+    height: 250px !important;
+
+}
+
+.sample-text4 {
+    color: #fff;
+    font-size: 30px;
+    padding-left: 140px;
+}
+
+.order-btn2 {
+    background-color: #ffc200;
+    font-weight: 500;
+    border: none;
+    border-radius: 3px;
+    width: 130px;
+    height: 40px;
+    margin-left: 140px;
+}
+
+.six-page {
+    background-image: url(images/lenoraFields.png);
+    height: 900px;
+}
+
+.yellow {
+    width: 100%;
+    height: 900px;
+    background-color: #ffca2b98;
+}
+
+.yellow-page-text {
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.yellow-page-heading {
+    font-family: hello;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.sevan-page {
+    background-image: url(images/title_background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+}
+
+.sevan-page-heading {
+    font-family: hello;
+    text-align: center;
+    font-size: 100px;
+    padding-top: 100px;
+}
+
+.sevan-page-text {
+    text-align: center;
+    font-size: 30px;
+}
+
+.abc-input {
+    height: 60px;
+    width: 40%;
+}
+
+.abc-btn {
+    width: 150px;
+    background-color: #ffc200;
+    color: #303030;
+    font-weight: bold;
+}
+
+
+.last-page {
+    background-color: #303030;
+    height: 500px;
+}
+
+.last-page-heading1 {
+    color: #fff;
+    padding-left: 100px;
+}
+
+.last-page-heading {
+    padding-top: 100px;
+    color: #fff;
+    padding-left: 100px;
+}
